@@ -5,9 +5,11 @@ This is based from my own personal list, and is of a decidely LDS slanted
 nature.
 
 Generally speaking, I will not accept pull requests containing sites that are
-'anti' in behaviour. Some obvious exceptions are the The Skeptic%#39;s
+'anti' in behaviour. Some obvious exceptions are the The Skeptic's
 annotated series, which I find an equal opportunity 'anti' site and a good
 source of topics to study.
+
+I will accept pull requests for any religion or spiritual source.
 
 ### Online Scripture Sites
 
