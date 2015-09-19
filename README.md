@@ -35,6 +35,7 @@ appropriateness of a site, please open a ticket and include the site there.
 * [Bible Hub](http://biblehub.com/)
 * [FAIRMormon](http://www.fairmormon.org/) Critical questions. Faithful answers.
 * [LDS General Conference](https://www.lds.org/general-conference?lang=eng)
+* [Interpreter - A Journal of Mormon Scripture](http://www.mormoninterpreter.com/)
 
 ### Lists
 
@@ -53,6 +54,7 @@ appropriateness of a site, please open a ticket and include the site there.
 * [Internet Sacred Text Archive](http://www.sacred-texts.com/index.htm)
 * [Publications - Books](http://maxwellinstitute.byu.edu/publications/books/)
 * [Religious | BenCrowder.net](http://bencrowder.net/books/religious)
+* [Volume 4 of the Critical Text of the Book of Mormon](http://www.mormoninterpreter.com/books/volume-4-of-the-critical-text-of-the-book-of-mormon-analysis-of-textual-variants-of-the-book-of-mormon/) Analysis of Textual Variants of the Book of Mormon
 
 ### Articles
 
