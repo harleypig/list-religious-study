@@ -15,6 +15,16 @@ appropriateness of a site, please open a ticket and include the site there.
 
 ### Scripture
 
+#### LDS Canon
+
+* [The Old Testament](https://www.lds.org/scriptures/ot)
+* [The New Testament](https://www.lds.org/scriptures/nt)
+* [The Book of Mormon](https://www.lds.org/scriptures/bofm)
+* [The Doctrine and Covenants](https://www.lds.org/scriptures/dc-testament)
+* [The Pearl of Great Price](https://www.lds.org/scriptures/pgp)
+
+#### Other Scripture Sites
+
 * [Bible Gateway](http://www.biblegateway.com/)
 * [BibleWebApp](http://biblewebapp.com/study/)
 * [Blue Letter Bible](http://www.blueletterbible.org/)
@@ -23,18 +33,18 @@ appropriateness of a site, please open a ticket and include the site there.
 * [LDS Scriptures](http://scriptures.lds.org/)
 * [Lumina](https://lumina.bible.org/)
 * [NET Bible](https://net.bible.org/)
+* [Search the Book of Mormon](http://quod.lib.umich.edu/m/mormon/)
 * [Skeptic&#39;s Annotated Bible](http://skepticsannotatedbible.com/)
 * [Skeptic&#39;s Annotated Book of Mormon](http://skepticsannotatedbible.com/BOM/)
-* [The Book of Mormon](http://quod.lib.umich.edu/m/mormon/)
 
 ### Sites
 
-* [Neal A. Maxwell Institute for Religious Scholarship](http://maxwellinstitute.byu.edu/)
+* [Neal A. Maxwell Institute for Religious Scholarship](http://mi.byu.edu/)
 * [Scriptural Teachings of the Prophet Joseph Smith](http://scriptures.byu.edu/stpjs.html)
 * [The Reluctant Messenger](http://reluctant-messenger.com/)
 * [Bible Hub](http://biblehub.com/)
 * [FAIRMormon](http://www.fairmormon.org/) Critical questions. Faithful answers.
-* [LDS General Conference](https://www.lds.org/general-conference?lang=eng)
+* [LDS General Conference](https://www.lds.org/general-conference)
 * [Interpreter - A Journal of Mormon Scripture](http://www.mormoninterpreter.com/)
 
 ### Lists
@@ -52,6 +62,7 @@ appropriateness of a site, please open a ticket and include the site there.
 * [History of the Church of Jesus Christ of Latter-day Saints Volume 3](http://www.gutenberg.org/ebooks/47707)
 * [HolyBooks](http://www.holybooks.com/)
 * [Internet Sacred Text Archive](http://www.sacred-texts.com/index.htm)
+* [Lesson Manuals](https://www.lds.org/manual)
 * [Publications - Books](http://maxwellinstitute.byu.edu/publications/books/)
 * [Religious | BenCrowder.net](http://bencrowder.net/books/religious)
 * [Volume 4 of the Critical Text of the Book of Mormon](http://www.mormoninterpreter.com/books/volume-4-of-the-critical-text-of-the-book-of-mormon-analysis-of-textual-variants-of-the-book-of-mormon/) Analysis of Textual Variants of the Book of Mormon
@@ -92,8 +103,11 @@ appropriateness of a site, please open a ticket and include the site there.
 * [FAIR Study Aids - Book of Mormon](http://en.fairmormon.org/FAIR_Study_Aids/Book_of_Mormon_Resources_by_chapter_and_verse)
 * [FAIR Study Aids - FAIRMormon](http://en.fairmormon.org/FAIR_Study_Aids)
 * [Feast upon the Word](http://feastupontheword.org/)
-* [Gospel Topics](https://www.lds.org/topics?lang=eng)
+* [Gospel Topics](https://www.lds.org/topics)
 * [Institute of Religion](http://www.instituteofreligion.org/)
+* [LDS Bible Dictionary](https://www.lds.org/scriptures/bd)
+* [LDS Scripture Guide](https://www.lds.org/scriptures/gs)
+* [LDS Topical Guide](https://www.lds.org/scriptures/tg)
 * [Logical Fallacies: The Fallacy Files](http://www.fallacyfiles.org/)
 * [Scriptures: Volumes](http://scriptures.byu.edu/mapscrip/)
 * [Strong&#39;s Exhaustive Concordance](http://www.biblestudytools.com/concordances/strongs-exhaustive-concordance/)
